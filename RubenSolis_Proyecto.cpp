@@ -44,7 +44,7 @@ int main(){
                       //1
                       switch(opcion){
                       case 1:
-                      cout<< "\nLogran ver que hay cuerpos tirados por todos lados descuartisados, uno de ustedes se da cuenta que los va a atakar esta cosa tus companeros"<< endl;
+                      cout<< "\nLogran ver a lo lejos que hay cuerpos tirados por todos lados descuartisados, uno de ustedes se da cuenta que los va a atakar esta cosa tus companeros"<< endl;
                       cout<< "\n"<< endl;
                       int a,b;
                                             
