@@ -654,7 +654,7 @@ int main(){
                       //1
                       switch(opcion){
                       case 1: 
-                      cout<< "\nTe gana y te mata por la superioridad en fuerza\n"<< endl;
+                      cout<< "\nTe gana y te mata por que el tiene mas fuerza\n"<< endl;
                       break;
                       //1   
                       case 2:
