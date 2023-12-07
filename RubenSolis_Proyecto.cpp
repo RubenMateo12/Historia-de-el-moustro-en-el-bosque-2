@@ -35,7 +35,7 @@ int main(){
           int a,b;
         
           cout << "\nElije una opcion del 1 al 4:\n" << endl;
-          cout << "\n100%  Vida          90% de enegia\n" << endl;
+          cout << "\n100%  Vida          95% de enegia\n" << endl;
           cout << "1-Entran todos juntos"<< endl; 
           cout << "2-Entran de a 2"<< endl;
           cout << "3-Entran separados"<< endl;
