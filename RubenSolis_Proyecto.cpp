@@ -50,7 +50,7 @@ int main(){
                                             
                       cout << "\nElije una opcion del 1 al 4:\n" << endl;
                       cout << "\n100%  Vida          15% de enegia\n" << endl;
-                      cout << "1-Apoyarlos con armas"<< endl; 
+                      cout << "1-Apoyarlos con armas de fuego"<< endl; 
                       cout << "2-Lanzartele a golpes"<< endl;
                       cout << "3-Correr"<< endl;
                       cout << "4-salir";
