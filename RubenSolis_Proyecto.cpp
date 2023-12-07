@@ -7,7 +7,7 @@ int main(){
     
     cout << "\n\nMoustro en el boque\n\n" << endl;
     cout << "Empiezas en tu trabajo como guardabosque" << endl;
-    cout << "Te dicen que tienes una torre de control y te dan todo el equipo necesario para que empiezes a trabajar" << endl;
+    cout << "Te dicen que tienes una torre de control y te dan todo el equipo necesario para que empiezes a laburar" << endl;
     cout << "Estas entusiasmado por empezar, te dan ciertas indicaciones que tienes que realizar durante la noche" << endl;
     cout << "La primera indicacion es que tienes que bajar a las 10pm de tu torre y ver que ya no halla gente fuera" << endl;
     cout << "Tu segunda indicacion es estar al pendiente desde tu torre por si alguien esta en peligro, ocupan ayuda, etc" << endl;
